@@ -11,7 +11,7 @@ This application is designed for hospital administrators, nurses, and medical st
 - **Create**: Add new patient records with validation
 - **Read**: Search by:
   - Patient ID
-  - Name (partial match supported)
+  - Name
   - Department/Poli
 - **Update**: Modify any patient field
 - **Delete**: Secure record removal (admin-only)
