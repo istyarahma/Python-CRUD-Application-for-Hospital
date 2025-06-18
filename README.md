@@ -1,6 +1,6 @@
 # Python-CRUD-Application-for-Hospital
 
-# Hospital Patient Management System
+## Hospital Patient Management System
 A command-line application for managing hospital patient records with create, read, update, and delete (CRUD) functionality and statistical reporting.
 
 ### Target Users
